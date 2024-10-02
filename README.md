@@ -3,7 +3,7 @@
 My name is Yi Bei, and I hold a degree in Computer Science with a specialization in Data Analytics. 
 I'm passionate about coding and have a strong interest in machine learning, constantly exploring innovative solutions through my projects.
 
-- 🔭 I’m currently working on projects utilizing the Go programming language.
+- 🔭 I’m currently working on projects using the Go programming language.
 - 🌱 I recently completed my final year project on crime prediction using machine learning technique, check it out [here]()
 - 👯I’m eager to start my professional career and apply my expertise meaningfully in the field. Please feel free to contact me via yibei0106@gmail.com
 
