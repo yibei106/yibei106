@@ -8,7 +8,6 @@ I have a strong interest in coding and machine learning, and I am eager to embar
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [yibei0106@gmail.com](mailto:yibei0106@gmail.com)
-* 🧠  I'm learning Web Development
 
 ### Skills
 
